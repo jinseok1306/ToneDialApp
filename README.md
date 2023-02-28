@@ -49,4 +49,10 @@
       위 코드를 터미널에서 실행하여 bundle 파일을 생성한다.
    3) vscode에서 프로젝트 ```npx react-native run-android ``` 실행
    4) 추출된 /apk 파일 휴대폰으로 옮기기  
-      android/app/build/outputs/apk/debug 경로에 apk 파일을 복사하면 된다.
+      android/app/build/outputs/apk/debug 경로에 apk 파일을 복사하면 된다.  
+
+### 7. 실행화면
+<img src="./image/AllowPage.png" width="200"> 
+<img src="./image/LoadingPage.png" width="200"> 
+<img src="./image/DialPage.png" width="200"> 
+<img src="./image/ContactPage.png" width="200">
