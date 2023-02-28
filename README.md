@@ -52,7 +52,4 @@
       android/app/build/outputs/apk/debug 경로에 apk 파일을 복사하면 된다.  
 
 ### 7. 실행화면
-<img src="./Image/AllowPage.png" width="200"> 
-<img src="./Image/LoadingPage.png" width="200"> 
-<img src="./Image/DialPage.png" width="200"> 
-<img src="./Image/ContactPage.png" width="200">
+<img src="./Image/AllowPage.png" width="200"> <img src="./Image/LoadingPage.png" width="200"> <img src="./Image/DialPage.png" width="200"> <img src="./Image/ContactPage.png" width="200">
